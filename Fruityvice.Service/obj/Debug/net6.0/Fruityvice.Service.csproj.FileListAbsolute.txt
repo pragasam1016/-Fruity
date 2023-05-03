@@ -1,0 +1,17 @@
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.csproj.AssemblyReference.cache
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.AssemblyInfoInputs.cache
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.AssemblyInfo.cs
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.csproj.CoreCompileInputs.cache
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.deps.json
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.dll
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.pdb
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.DataAccess.dll
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Model.dll
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.DataAccess.pdb
+C:\Learning\Fruityvice\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Model.pdb
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.csproj.CopyComplete
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.dll
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\refint\Fruityvice.Service.dll
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.pdb
+C:\Learning\Fruityvice\Fruityvice.Service\obj\Debug\net6.0\ref\Fruityvice.Service.dll

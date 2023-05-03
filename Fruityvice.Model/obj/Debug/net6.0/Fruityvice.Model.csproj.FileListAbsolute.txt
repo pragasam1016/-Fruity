@@ -1,0 +1,12 @@
+C:\Learning\Fruityvice\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.deps.json
+C:\Learning\Fruityvice\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.dll
+C:\Learning\Fruityvice\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.pdb
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.csproj.AssemblyReference.cache
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.AssemblyInfoInputs.cache
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.AssemblyInfo.cs
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.csproj.CoreCompileInputs.cache
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.dll
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\refint\Fruityvice.Model.dll
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.pdb
+C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\ref\Fruityvice.Model.dll

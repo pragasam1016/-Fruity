@@ -1,0 +1,14 @@
+C:\Learning\Fruityvice\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.deps.json
+C:\Learning\Fruityvice\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.runtimeconfig.json
+C:\Learning\Fruityvice\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.dll
+C:\Learning\Fruityvice\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.pdb
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.csproj.AssemblyReference.cache
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.AssemblyInfoInputs.cache
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.AssemblyInfo.cs
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.csproj.CoreCompileInputs.cache
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.dll
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\refint\Fruityvice.DataAccess.dll
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.pdb
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.genruntimeconfig.cache
+C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\ref\Fruityvice.DataAccess.dll
