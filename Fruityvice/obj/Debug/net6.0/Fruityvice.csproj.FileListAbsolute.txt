@@ -86,3 +86,13 @@ C:\Learning\Fruityvice\Fruityvice\obj\Debug\net6.0\Fruityvice.genruntimeconfig.c
 C:\Learning\Fruityvice\Fruityvice\obj\Debug\net6.0\ref\Fruityvice.dll
 C:\Learning\Fruityvice\Fruityvice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Learning\Fruityvice\Fruityvice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.csproj.AssemblyReference.cache
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.AssemblyInfoInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.AssemblyInfo.cs
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.csproj.CoreCompileInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.dll
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\refint\Fruityvice.dll
+D:\Projects\Fruity\-Fruity\Fruityvice\obj\Debug\net6.0\Fruityvice.pdb

@@ -10,3 +10,15 @@ C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.dll
 C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\refint\Fruityvice.Model.dll
 C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.pdb
 C:\Learning\Fruityvice\Fruityvice.Model\obj\Debug\net6.0\ref\Fruityvice.Model.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.deps.json
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\bin\Debug\net6.0\Fruityvice.Model.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.csproj.AssemblyReference.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.AssemblyInfoInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.AssemblyInfo.cs
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\refint\Fruityvice.Model.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\Fruityvice.Model.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.Model\obj\Debug\net6.0\ref\Fruityvice.Model.dll

@@ -6982,19 +6982,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GnanaPragasam\\.nuget\\packages\\": {}
+    "C:\\Users\\Smart\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learning\\Fruityvice\\Fruityvice.Service\\Fruityvice.Service.csproj",
+      "projectUniqueName": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.Service\\Fruityvice.Service.csproj",
       "projectName": "Fruityvice.Service",
-      "projectPath": "C:\\Learning\\Fruityvice\\Fruityvice.Service\\Fruityvice.Service.csproj",
-      "packagesPath": "C:\\Users\\GnanaPragasam\\.nuget\\packages\\",
-      "outputPath": "C:\\Learning\\Fruityvice\\Fruityvice.Service\\obj\\",
+      "projectPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.Service\\Fruityvice.Service.csproj",
+      "packagesPath": "C:\\Users\\Smart\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GnanaPragasam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7008,11 +7008,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {
-              "projectPath": "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj"
+            "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {
+              "projectPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj"
             },
-            "C:\\Learning\\Fruityvice\\Fruityvice.Model\\Fruityvice.Model.csproj": {
-              "projectPath": "C:\\Learning\\Fruityvice\\Fruityvice.Model\\Fruityvice.Model.csproj"
+            "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.Model\\Fruityvice.Model.csproj": {
+              "projectPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.Model\\Fruityvice.Model.csproj"
             }
           }
         }
@@ -7042,7 +7042,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {}
+    "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {
+    "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj",
+        "projectUniqueName": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj",
         "projectName": "Fruityvice.DataAccess",
-        "projectPath": "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\GnanaPragasam\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\Fruityvice\\Fruityvice.DataAccess\\obj\\",
+        "projectPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\Fruityvice.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Smart\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Fruity\\-Fruity\\Fruityvice.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GnanaPragasam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
