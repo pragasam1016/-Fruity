@@ -12,3 +12,17 @@ C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\refint\Fruityvice.
 C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.pdb
 C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.genruntimeconfig.cache
 C:\Learning\Fruityvice\Fruityvice.DataAccess\obj\Debug\net6.0\ref\Fruityvice.DataAccess.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.deps.json
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.runtimeconfig.json
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\bin\Debug\net6.0\Fruityvice.DataAccess.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.AssemblyInfo.cs
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\refint\Fruityvice.DataAccess.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\Fruityvice.DataAccess.genruntimeconfig.cache
+D:\Projects\Fruity\-Fruity\Fruityvice.DataAccess\obj\Debug\net6.0\ref\Fruityvice.DataAccess.dll

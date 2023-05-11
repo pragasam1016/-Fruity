@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruityvice", "Fruityvice.csproj", "{B8071185-2EB6-45EC-8077-A41AA0418420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruityvice", "Fruityvice.csproj", "{B8071185-2EB6-45EC-8077-A41AA0418420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruityvice.Model", "..\Fruityvice.Model\Fruityvice.Model.csproj", "{77373F47-8A20-441D-ADFF-1EEF7C9A7646}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruityvice.Model", "..\Fruityvice.Model\Fruityvice.Model.csproj", "{77373F47-8A20-441D-ADFF-1EEF7C9A7646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruityvice.DataAccess", "..\Fruityvice.DataAccess\Fruityvice.DataAccess.csproj", "{51FD5E72-CD1E-4FCF-BB0B-5FD099831026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruityvice.DataAccess", "..\Fruityvice.DataAccess\Fruityvice.DataAccess.csproj", "{51FD5E72-CD1E-4FCF-BB0B-5FD099831026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruityvice.Service", "..\Fruityvice.Service\Fruityvice.Service.csproj", "{CFA9E88E-FDD0-4EB4-8433-2B19C6311354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruityvice.Service", "..\Fruityvice.Service\Fruityvice.Service.csproj", "{CFA9E88E-FDD0-4EB4-8433-2B19C6311354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

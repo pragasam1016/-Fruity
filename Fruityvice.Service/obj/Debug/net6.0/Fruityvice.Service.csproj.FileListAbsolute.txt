@@ -28,3 +28,7 @@ D:\Projects\Fruity\-Fruity\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Servic
 D:\Projects\Fruity\-Fruity\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.dll
 D:\Projects\Fruity\-Fruity\Fruityvice.Service\obj\Debug\net6.0\refint\Fruityvice.Service.dll
 D:\Projects\Fruity\-Fruity\Fruityvice.Service\obj\Debug\net6.0\Fruityvice.Service.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.deps.json
+D:\Projects\Fruity\-Fruity\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.dll
+D:\Projects\Fruity\-Fruity\Fruityvice.Service\bin\Debug\net6.0\Fruityvice.Service.pdb
+D:\Projects\Fruity\-Fruity\Fruityvice.Service\obj\Debug\net6.0\ref\Fruityvice.Service.dll

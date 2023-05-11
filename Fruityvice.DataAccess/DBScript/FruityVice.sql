@@ -1,0 +1,133 @@
+
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [FruityVice].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [FruityVice] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [FruityVice] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [FruityVice] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [FruityVice] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [FruityVice] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [FruityVice] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [FruityVice] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [FruityVice] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [FruityVice] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [FruityVice] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [FruityVice] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [FruityVice] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [FruityVice] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [FruityVice] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [FruityVice] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [FruityVice] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [FruityVice] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [FruityVice] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [FruityVice] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [FruityVice] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [FruityVice] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [FruityVice] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [FruityVice] SET RECOVERY FULL 
+GO
+ALTER DATABASE [FruityVice] SET  MULTI_USER 
+GO
+ALTER DATABASE [FruityVice] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [FruityVice] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [FruityVice] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [FruityVice] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [FruityVice] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [FruityVice] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+EXEC sys.sp_db_vardecimal_storage_format N'FruityVice', N'ON'
+GO
+ALTER DATABASE [FruityVice] SET QUERY_STORE = OFF
+GO
+USE [FruityVice]
+GO
+/****** Object:  Table [dbo].[Fruity]    Script Date: 11-05-2023 14:18:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Fruity](
+	[FruityId] [int] IDENTITY(1,1) NOT NULL,
+	[Genus] [nvarchar](25) NOT NULL,
+	[Name] [nvarchar](30) NULL,
+	[Family] [nvarchar](30) NOT NULL,
+	[Order] [nvarchar](30) NULL,
+ CONSTRAINT [PK_Fruity] PRIMARY KEY CLUSTERED 
+(
+	[FruityId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Nutritions]    Script Date: 11-05-2023 14:18:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Nutritions](
+	[NutritionsId] [int] IDENTITY(1,1) NOT NULL,
+	[Carbohydrates] [int] NOT NULL,
+	[Protein] [int] NOT NULL,
+	[fat] [float] NOT NULL,
+	[Calories] [float] NOT NULL,
+	[Sugar] [float] NOT NULL,
+	[FruityId] [int] NOT NULL,
+ CONSTRAINT [PK_Nutritions] PRIMARY KEY CLUSTERED 
+(
+	[NutritionsId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[Fruity] ON 
+GO
+INSERT [dbo].[Fruity] ([FruityId], [Genus], [Name], [Family], [Order]) VALUES (1, N'Fragaria', N'Strawberry', N'Rosaceae', N'Rosales')
+GO
+INSERT [dbo].[Fruity] ([FruityId], [Genus], [Name], [Family], [Order]) VALUES (2, N'Musa', N'Banana', N'Musaceae', N'Zingiberales')
+GO
+SET IDENTITY_INSERT [dbo].[Fruity] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Nutritions] ON 
+GO
+INSERT [dbo].[Nutritions] ([NutritionsId], [Carbohydrates], [Protein], [fat], [Calories], [Sugar], [FruityId]) VALUES (1, 5, 0, 0.4, 29, 5.4, 1)
+GO
+INSERT [dbo].[Nutritions] ([NutritionsId], [Carbohydrates], [Protein], [fat], [Calories], [Sugar], [FruityId]) VALUES (2, 22, 0, 0.2, 29, 96, 2)
+GO
+SET IDENTITY_INSERT [dbo].[Nutritions] OFF
+GO
+ALTER TABLE [dbo].[Nutritions]  WITH CHECK ADD  CONSTRAINT [FK_Nutritions_FruityId] FOREIGN KEY([FruityId])
+REFERENCES [dbo].[Fruity] ([FruityId])
+GO
+ALTER TABLE [dbo].[Nutritions] CHECK CONSTRAINT [FK_Nutritions_FruityId]
+GO
+USE [master]
+GO
+ALTER DATABASE [FruityVice] SET  READ_WRITE 
+GO
